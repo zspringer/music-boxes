@@ -1,0 +1,20 @@
+/*style here?*/
+.box{
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+}
+
+.blue:hover{
+  background-color: blue;
+}
+
+.green:hover{
+  background-color: green;
+}
+
+.red:hover{
+  background-color:red;
+}
+
