@@ -1,5 +1,5 @@
 //javascript here
-var url = 'https://bcw.blob.core.windows.net/public/img/sounds/scale-00'
+var url = 'https://bcw.blob.core.windows.net/public/img/sounds/scale-0'
 
 var boombox = document.getElementById('boombox')
 
